@@ -1,0 +1,4 @@
+pizza, 50.5,   16/07/2025,   mancare 
+Mancare, 30.0,  12/12/2025,  cls 
+Pizza, 20.99, 16/12/2025, Mancare 
+Faringosept, 40.0, 17/12/2025, Medicamente 
