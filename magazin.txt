@@ -1,9 +1,0 @@
-Produs: Laptop, categorie: Electronice, pret: 3000, stoc: 10
-Produs: Mouse, categorie: Electronice, pret: 150, stoc: 50
-Produs: Telefon, categorie: Electronice, pret: 2000, stoc: 20
-Produs: Laptop, categorie: Electronice, pret: 3000, stoc: 10
-Produs: Mouse, categorie: Electronice, pret: 150, stoc: 50
-Produs: Telefon, categorie: Electronice, pret: 2000, stoc: 20
-Produs: Laptop, categorie: Electronice, pret: 3000, stoc: 10
-Produs: Mouse, categorie: Electronice, pret: 150, stoc: 50
-Produs: Telefon, categorie: Electronice, pret: 2000, stoc: 20
