@@ -1,3 +1,0 @@
-Ion Popescu, Programator, 5000, 2
-Maria Staicu, Designer, 4500, 3
-Ionela Ionescu, Manager Marketing, 6000, 2
