@@ -1,6 +1,0 @@
-Identificarea server ului care ruleaza pe port
-
-netstat -ano | findstr :3306 """putem alege orice port"""
-
-
-"C:\xampp\mysql\bin\mysql" -u root -P 3307 -h 127.0.0.1  calea 
